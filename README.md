@@ -9,7 +9,7 @@ HOW TO PLAY :-
 
 1. Download The Repository.
 2. Put all the files into a folder
-3. Run the main.exe file.
+3. Run the 'MoveIt.exe' file.
 4. Thats it. :)
 
 P.S. Keep in mind, that I just made it for fun and just overlook the fact that the game is very short and
