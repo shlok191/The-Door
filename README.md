@@ -13,4 +13,4 @@ HOW TO PLAY :-
 4. Thats it. :)
 
 P.S. Keep in mind, that I just made it for fun and just overlook the fact that the game is very short and
-you can finish it in 5 minutes if you try.
+you can finish it in 5 minutes if you try. Have fun!
