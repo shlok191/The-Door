@@ -1,4 +1,4 @@
-# Move-It-Game-
+# Move-It-Game
 
 This a 2-dimensional game that I made in C++ language when I was 13 years old.
 I thought it would be fun to put this on Github.
